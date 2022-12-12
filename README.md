@@ -1,1 +1,1 @@
-HI EVERYONE!
+Homm server impl
